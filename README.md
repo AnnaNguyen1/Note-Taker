@@ -24,6 +24,8 @@ npm i
 
 Run Node server.js in the terminal and follow the path to the Note Taker App.
 
+![Displaying Notes that have been saved in the json file](./images/notetakerimg.jpg)
+
 [Video link here](https://watch.screencastify.com/v/T59W0dsuVZLCgRt5yaaT)
 
 Deployed app: https://note-taker-annanguyen.herokuapp.com/
