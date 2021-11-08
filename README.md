@@ -26,6 +26,8 @@ Run Node server.js in the terminal and follow the path to the Note Taker App.
 
 [Video link here](https://watch.screencastify.com/v/T59W0dsuVZLCgRt5yaaT)
 
+Deployed app: https://note-taker-annanguyen.herokuapp.com/
+
 ## Technologies used
 
 - Node.js
