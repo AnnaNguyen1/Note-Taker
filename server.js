@@ -9,7 +9,7 @@ const {
 } = require("./helpers/fsUtils");
 
 const app = express();
-const PORT = process.env.port || 3002;
+const PORT = process.env.port || 3001;
 
 // app.use("/api", api);
 app.use(express.static("public"));
